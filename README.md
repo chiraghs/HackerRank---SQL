@@ -1,0 +1,2 @@
+# HackerRank---SQL
+Prepare - Sql
